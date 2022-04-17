@@ -1,2 +1,2 @@
 # Fun_Stuff
-Random programming projects, done for fun
+Random programming projects and general mathematical puzzles. All done for fun.
